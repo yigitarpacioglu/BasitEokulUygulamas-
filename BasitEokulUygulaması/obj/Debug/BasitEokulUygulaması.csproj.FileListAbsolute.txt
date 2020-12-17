@@ -1,0 +1,16 @@
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\bin\Debug\BasitEokulUygulaması.exe.config
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\bin\Debug\BasitEokulUygulaması.exe
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\bin\Debug\BasitEokulUygulaması.pdb
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.Form1.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.Properties.Resources.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.exe
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.pdb
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.Ogrenci_Not_Ekranı.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.FrmKulup.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.FrmOgretmen.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.FrmDersler.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.FrmOgrenci.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\BasitEokulUygulaması\BasitEokulUygulaması\obj\Debug\BasitEokulUygulaması.FrmSinavNotlar.resources
